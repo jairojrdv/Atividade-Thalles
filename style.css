@@ -35,8 +35,7 @@ h1{
 footer{
     display: flex;
     justify-content: center;
-    margin-top: 60px;
-    margin: 50px 0px
+    margin: 60px 0 0 0;
 }
 footer a{
     margin-top: 5px;
